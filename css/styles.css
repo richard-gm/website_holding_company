@@ -556,3 +556,50 @@ body {
     opacity: 1;
     transform: translateY(0);
 }
+
+/* Hero Section - Keep white */
+.hero {
+    background: #ffffff;
+}
+
+/* Services Section - Light yellow/cream background */
+#services {
+    background: #fef9e7;
+}
+
+/* Stats Section - Dark blue background */
+.stats-section {
+    background: #1a365d;
+    color: white;
+}
+
+/* Update stats section text colors for dark background */
+.stats-section .section-subtitle {
+    color: #ffd700;
+}
+
+.stats-section .section-title {
+    color: white;
+}
+
+.stats-section .section-description {
+    color: #e2e8f0;
+}
+
+.stats-section .stat-item .number {
+    color: white;
+}
+
+.stats-section .stat-item .label {
+    color: #cbd5e0;
+}
+
+/* About Section - White background */
+#about {
+    background: #ffffff;
+}
+
+/*!* Contact Section - Light blue/gray background *!*/
+/*.contact-section {*/
+/*    background: #f7fafc;*/
+/*}*/
